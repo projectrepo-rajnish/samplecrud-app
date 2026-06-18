@@ -1,1 +1,3 @@
-
+Swagger is used for API documentation.
+In Spring Boot, we can use springdoc-openapi.
+Swagger UI helps backend and frontend teams test APIs easily.
