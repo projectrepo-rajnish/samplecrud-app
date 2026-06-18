@@ -1,3 +1,4 @@
 Redis can be used for caching frequently requested employee data.
 It improves performance by reducing database calls.
 Cache invalidation should be handled carefully after update/delete operations.
+New details are yet to add in file
