@@ -3,3 +3,4 @@ It improves performance by reducing database calls.
 Cache invalidation should be handled carefully after update/delete operations.
 New details are yet to add in file
 New details 2 are yet to add in file
+New details 3 added
