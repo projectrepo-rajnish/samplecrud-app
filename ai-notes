@@ -1,3 +1,4 @@
 AI chatbot helps users search employee records quickly.
+AI chatbot helps business users search ERP records.
 It can answer basic questions like employee count, department list, and leave status.
 For production, AI responses should be restricted based on user roles.
